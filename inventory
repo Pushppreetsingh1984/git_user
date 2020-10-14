@@ -2,6 +2,8 @@
 localhost
 
 [practice]
-servera
+localhost.localdomain
 
+#[dev]
+#node3
 
