@@ -8,3 +8,6 @@ users:
         
         - name: bob
           group: developer 
+
+        - name: pushppreet
+          group: IBM
