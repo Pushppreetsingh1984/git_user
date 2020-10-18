@@ -5,3 +5,10 @@ users:
 
         - name: jay
           group: test
+
+        - name: bob
+          group: developer
+
+        - name: puneet
+          group: ibm
+...
