@@ -1,8 +1,6 @@
 [local]
-localhost
+workstation
 
 [practice]
-localhost.localdomain
+workstation
 
-#[dev]
-#node3
