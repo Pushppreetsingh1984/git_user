@@ -5,5 +5,3 @@ users:
 
         - name: jay
           group: test
-
-...
