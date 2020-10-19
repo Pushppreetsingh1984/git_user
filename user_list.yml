@@ -5,3 +5,6 @@ users:
 
         - name: jay
           group: test
+
+        - name: jine
+          group: hcl
