@@ -1,8 +1,10 @@
 ---
 users:
-        - name: arvind
+        - name: arvind12
           group: manager
 
-        - name: jay
+        - name: jay12
           group: test
 
+        - name: vivek1
+          group: ibm
