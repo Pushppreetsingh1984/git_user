@@ -6,5 +6,3 @@ users:
         - name: jay12
           group: test
 
-        - name: vivek1
-          group: ibm
