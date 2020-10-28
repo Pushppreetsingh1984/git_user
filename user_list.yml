@@ -6,5 +6,3 @@ users:
         - name: jay121
           group: test
 
-        - name: pankaj110
-          group: developer
