@@ -1,7 +1,10 @@
 ---
 users:
-        - name: arvind1121
+        - name: arvind11121
           group: manager
 
-        - name: jay1211
+        - name: jay12111
           group: test
+
+        - name: bob0009
+          group: developer
