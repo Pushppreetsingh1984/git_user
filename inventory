@@ -4,5 +4,5 @@ localhost
 [practice]
 localhost.localdomain
 
-#[dev]
-#node3
+[dev]
+node3

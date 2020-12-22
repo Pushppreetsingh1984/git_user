@@ -6,5 +6,5 @@ users:
         - name: jayabachan
           group: test
 
-        - name: bobby202
-          group: developer
+        - name: bob
+          group: developer 
