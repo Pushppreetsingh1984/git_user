@@ -1,8 +1,8 @@
 [local]
-localhost.localhost
+testserver
 
 [practice]
-localhost.localhost
+testserver
 
 #[dev]
 #node3
