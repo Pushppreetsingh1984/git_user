@@ -1,8 +1,8 @@
 [local]
-testserver
+ansibletower
 
 [practice]
-testserver
+ansibletower
 
 #[dev]
 #node3
