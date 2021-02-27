@@ -1,8 +1,8 @@
 [local]
-ansibletower
+localhost.localdomain
 
 [practice]
-ansibletower
+localhost.localdomain
 
 #[dev]
 #node3
