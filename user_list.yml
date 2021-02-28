@@ -6,5 +6,4 @@ users:
         - name: jayabachan1
           group: test1
         
-        - name: bob
-          group: developer
+   
